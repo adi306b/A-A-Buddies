@@ -1,0 +1,6 @@
+- Copyright (C) 2014-2020 Aditya Pathak <adityapathak306@gmail.com>,
+- Copyright (C) 2014-2020 Amisha Porwal <amishaporwal98@gmail.com>,
+- Copyright (C) 2014-2020 Aditi mittal <aditimittal2233@gmail.com>,
+- Copyright (C) 2014-2020 OPEN SOURCE SOCIAL NETWORK <https://www.opensource-socialnetwork.org>,
+- Copyright (C) 2015-2020 SOFTLAB24 LTD <https://www.softlab24.com>
+- Copyright (C) 2014-2015 INFORMATIKON TECHNOLOGIES <https://www.informatikon.com>
